@@ -1,0 +1,7 @@
+# Project exclude paths
+/common/target/
+/service1/target/
+/service2/target/
+/.idea/
+/logs/
+/common/.rebel.xml.bak
